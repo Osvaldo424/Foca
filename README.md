@@ -1,1 +1,1 @@
-# Osvaldo_Uriel_Sosa_Matias_ic_0703_Gestion_Proyectos_Software
+# Osvaldo_Uriel_Sosa_Matias_ic_0501_Arquitecturas_De_Computadoras
